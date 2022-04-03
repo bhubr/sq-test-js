@@ -6,3 +6,7 @@ let a = compute(5)
 
 console.log(a)
 
+function div(c, b) {
+  c /= b
+  return c
+}
