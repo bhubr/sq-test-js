@@ -10,3 +10,8 @@ function div(c, b) {
   c /= b
   return c
 }
+
+function div2(c, b) {
+  c /= b
+  return c
+}
