@@ -2,7 +2,7 @@ function compute(a, b) {
   return a + b
 }
 
-let a = compute(5)
+let a = compute(div(5,2))
 
 console.log(a)
 
